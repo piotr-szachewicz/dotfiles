@@ -1,0 +1,8 @@
+[user]
+	name = Piotr Szachewicz
+	email = piotr.szachewicz@gmail.com
+[push]
+	default = simple
+[alias]
+	s = status -s
+	lg = log --oneline --decorate --all --graph
